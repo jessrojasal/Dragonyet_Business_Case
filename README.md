@@ -38,8 +38,11 @@ This section highlights the performance of fast-growing companies and assesses t
 ## Contributors
 
 Kevin Potter | [kvnpotter](https://github.com/kvnpotter)  
+
 Jessica Rojas-Alvarado | [jessrojasal](https://github.com/jessrojasal)
-Olha Slutska | [StefVandekerckhove1](https://github.com/StefVandekerckhove1)  
+
+Olha Slutska | [StefVandekerckhove1](https://github.com/StefVandekerckhove1) 
+ 
 Stef Vandekerckhove | [olhasl](https://github.com/olhasl)
 
 

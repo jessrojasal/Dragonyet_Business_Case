@@ -1,5 +1,5 @@
 # Dragonyte Brewery | Data Analysis and Visualization
-***
+
 ## Overview
 This project was developed as part of the BeCode AI & Data Science Bootcamp. The goal was to analyze market trends for Dragonyte Brewery and provide actionable insights using Power BI.
 

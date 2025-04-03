@@ -41,8 +41,8 @@ Kevin Potter | [kvnpotter](https://github.com/kvnpotter)
 
 Jessica Rojas-Alvarado | [jessrojasal](https://github.com/jessrojasal)
 
-Olha Slutska | [StefVandekerckhove1](https://github.com/StefVandekerckhove1) 
+Olha Slutska |  [olhasl](https://github.com/olhasl)
  
-Stef Vandekerckhove | [olhasl](https://github.com/olhasl)
+Stef Vandekerckhove | [StefVandekerckhove1](https://github.com/StefVandekerckhove1)
 
 
